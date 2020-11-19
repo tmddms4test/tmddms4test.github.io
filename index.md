@@ -9,7 +9,7 @@ cover-img: /assets/img/cover_1.jpg
 
 ## About me
 
-**Seung-eun Lee** is a **Computer Vision Researcher** and **MS student** of **UNIST**
+I am a **Computer Vision Researcher** and **MS student** at **UNIST**
 
 My research interests inclue Computer Vision and Deep Learning. Particularly, I am interested in Semantic segmentation and 3D reconstruction. I am also interested in making computer thinks and learn like humans.
 
